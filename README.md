@@ -2,4 +2,5 @@
 
 
 Dependencies:
+twitter 1.18.0
 (?) tweepy
